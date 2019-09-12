@@ -238,7 +238,7 @@ describe('index.js', () => {
     });
     describe('Meal methods', () => {
       describe('Meal.byPrice()', () => {
-    
+
       });
     });
 
